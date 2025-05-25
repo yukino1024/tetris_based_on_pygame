@@ -1,4 +1,6 @@
 # 俄罗斯方块
+程序设计（python）课程设计
+
   这是一个基于pygame库的小游戏,用python解释器运行，请提前安装pygame库，否则无法运行。运行时直接运行main.py文件即可。（注意：请不要移动可执行文件或.py文件的位置，否则程序可能应找不到对应的音乐和图片文件报错。）
   
    游戏主逻辑来自：https://www.bilibili.com/video/BV19u4y1B7br/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click
